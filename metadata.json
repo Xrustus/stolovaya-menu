@@ -1,0 +1,6 @@
+
+{
+  "name": "Столовая № 1 - Digital Menu Board",
+  "description": "A digital menu system for canteens with an admin panel and AI image generation for dishes.",
+  "requestFramePermissions": []
+}
